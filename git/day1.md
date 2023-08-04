@@ -27,3 +27,11 @@
  $git push origin master
  
 ```
+- deleting a branch:
+```git
+ $git branch --merged
+ $git branch -d <name>
+ $git branch -a
+ $git push origin --delete <name>
+ 
+```
