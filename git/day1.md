@@ -39,6 +39,6 @@
  $git push origin --delete <name>
 
 
+```
 ` HEAD answers the question, “Where am I right now?”`
  
-```
